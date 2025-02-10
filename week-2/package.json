@@ -1,0 +1,13 @@
+{
+  "name": "week-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "fun": "node functions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
